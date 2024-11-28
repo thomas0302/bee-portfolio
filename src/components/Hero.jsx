@@ -22,7 +22,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Full Stack developer enthusiast, a lifetime learner{" "}
             <br className="sm:block hidden" />
-            based in Baytown, Texas, United States.
+            based in Deltona, Florida, United States.
           </p>
           <img
             src={MySvg}
