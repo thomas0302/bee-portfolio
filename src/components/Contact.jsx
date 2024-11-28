@@ -38,9 +38,9 @@ const Contact = () => {
         "template_adffxx6",
         {
           from_name: form.name,
-          to_name: "Guillermo Tays",
+          to_name: "thomas anderson",
           from_email: form.email,
-          to_email: "guillermotays14@gmail.com",
+          to_email: "thomasanderson14@gmail.com",
           message: form.message,
         },
         "rPE5DvfZgyEqusIhj"
@@ -85,14 +85,14 @@ const Contact = () => {
             <FaGithub size={32} color="white" />
           </a>
           <a
-            href="https://www.linkedin.com/in/guillermo-tays-a361ab2b9/"
+            href="https://www.linkedin.com/in/thomas-anderson-a361ab2b9/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaLinkedin size={32} color="white" />
           </a>
           <a
-            href="mailto:guillermotays14@gmail.com"
+            href="mailto:thomasanderson14@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-12 h-12 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            guillermo tays &nbsp;
+            thomas anderson &nbsp;
           </p>
         </Link>
 
