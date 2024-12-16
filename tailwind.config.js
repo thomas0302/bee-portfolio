@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 /*eslint-env node*/
-module.exports = {
+export default {
   content: ["./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
