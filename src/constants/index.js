@@ -165,18 +165,19 @@ const technologies = [
 const experiences = [
   {
     title: "Senior Software Engineer",
-    company_name: "RediClinic",
+    company_name: "3Core Systems",
     icon: inspiringApps,
     iconBg: "#FFFFFF",
     date: "Mar 2021 - Present",
     points: [
-      "Developed interactive data visualization dashboards using D3.js and Highcharts, improving insight generation for healthcare professionals.",
-      "Built dynamic UI components using Angular 10+ and TypeScript, ensuring a smooth user experience and scalability.",
-      "Integrated RESTful APIs to fetch and display real-time patient data in an efficient and structured manner.",
-      "Optimized front-end performance by implementing lazy loading, code splitting, and caching strategies.",
-      "Managed version control and code collaboration using Git/Bitbucket to streamline development processes",
-      "Implemented security best practices, ensuring secure data transactions within the application.",
-      "Skills: JavaScript (ES6+), Angular (10+), TypeScript, HTML5, CSS3, D3.js, Highcharts, D3.js, Highcharts, PowerBI, Tableau, Custom Dashboard Development,  RESTful APIs, Node.js, SQL, Git, Bitbucket",
+      "Architected and developed scalable full-stack applications using React, Node.js, and Next.js in diverse client-facing projects",
+      "Built secure, high-performance APIs using REST and GraphQL, tailored to enterprise-scale data flows and integrations.",
+      "Led database optimization efforts using PostgreSQL and MongoDB, improving data access efficiency and reliability.",
+      "Designed and implemented serverless architecture with AWS Lambda to support lightweight, scalable backend services.",
+      "Delivered dynamic, responsive UIs with Material-UI and maintained complex state using Redux.",
+      "Integrated third-party services and tools to extend platform capabilities while ensuring security and scalability.",
+      "Oversaw containerization of applications using Docker and managed orchestration with Kubernetes for smooth deployments.",
+      "Skills: JavaScript (ES6+), TypeScript, Python, PHP, Ruby, SQL, C++, HTML5, CSS3, SCSS, AWS (EC2, S3, Lambda, RDS), GCP, Docker, Kubernetes, Jenkins, GitLab CI/CD, API Design, Scalable Architecture, Performance Optimization, Security Best Practices, Agile Development, CI/CD Automation, Cloud-Native Applications",
     ],
   },
   {
